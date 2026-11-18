@@ -52,27 +52,6 @@
 
 ---
 
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bu%C4%9Fra-%C3%A7i%C3%A7ek-1289662b8/">
-<img src="https://img.shields.io/badge/LinkedIn-Buğra_Çiçek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-
-<a href="https://www.instagram.com/1bugracicek/?hl=tr">
-<img src="https://img.shields.io/badge/Instagram-1bugracicek-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-</a>
-
-<a href="https://github.com/bugracicek06">
-<img src="https://img.shields.io/badge/GitHub-bugracicek06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### "Building the future, one line of code at a time."
