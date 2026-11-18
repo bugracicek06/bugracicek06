@@ -65,42 +65,6 @@ I focus on building digital solutions, exploring emerging technologies, and impr
 
 ---
 
-## 🎯 Areas of Interest
-
-| Domain | Focus |
-|:---|:---|
-| 🤖 Artificial Intelligence | Generative AI, LLMs, AI Agents |
-| 💻 Software Engineering | Full Stack Development, APIs |
-| 🏗️ Software Architecture | System Design, Scalability |
-| ☁️ Infrastructure | Cloud, DevOps, Automation |
-| 🔐 Cybersecurity | Information Security, Secure Systems |
-| 📊 Data Technologies | Databases, Data Management |
-| 🚀 Entrepreneurship | SaaS, MVP, Digital Products |
-| ⚙️ SDLC | Planning, Development, Testing, Deployment |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bugracicek06&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugracicek06&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugracicek06&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
