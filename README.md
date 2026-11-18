@@ -9,9 +9,14 @@
 
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-%C3%A7i%C3%A7ek-1289662b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1bugracicek/?hl=tr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugracicek06)
+[![Personal Email](https://img.shields.io/badge/Gmail-Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bugracicek5506@gmail.com)
+[![Corporate Email](https://img.shields.io/badge/Pamukkale_Teknokent-Corporate_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bcicek@pauteknokent.com.tr)
+
+
 
 <br/>
 
@@ -19,24 +24,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Buğra Çiçek**, a technology professional based in Türkiye, working across software development, enterprise IT systems, artificial intelligence, and technology entrepreneurship.
-
-I focus on building digital solutions, exploring emerging technologies, and improving software development processes.
-
-- 💻 Software Engineering & Application Development
-- 🤖 Artificial Intelligence & Generative AI
-- 🧠 Large Language Models & AI-Assisted Development
-- ⚙️ Workflow Automation & Intelligent Systems
-- 🏗️ Software Architecture & System Design
-- 🔐 IT Infrastructure & Information Security
-- 🚀 Technology Entrepreneurship & SaaS
-- 📐 Software Development Life Cycle (SDLC)
-
----
 
 ## 🛠️ Tech Stack & AI Tools
 
