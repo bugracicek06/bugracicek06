@@ -1,15 +1,21 @@
 
 <div align="center">
 
-# Hi, I'm Buğra Çiçek 👋
+# Hi there, I'm Buğra Çiçek 👋
 
-### Software Developer • IT Systems • Tech Entrepreneur
+### Software Developer | AI Enthusiast | IT Systems | Tech Entrepreneur
 
-**Building digital products, automating workflows, and transforming ideas into scalable software solutions.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+%26+Engineering;Artificial+Intelligence+%26+Automation;Building+Scalable+Digital+Solutions;Exploring+the+Future+of+Technology" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bugracicek06&color=0e75b6&style=flat-square)](https://github.com/bugracicek06)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bugracicek06)
-[![SerovaTech](https://img.shields.io/badge/SerovaTech-0078D4?style=flat-square&logo=googlechrome&logoColor=white)](https://serovatech.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-%C3%A7i%C3%A7ek-1289662b8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1bugracicek/?hl=tr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugracicek06)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bugracicek06&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -17,174 +23,156 @@
 
 ## 👨‍💻 About Me
 
-I'm **Buğra Çiçek**, a technology professional and software entrepreneur based in Türkiye.
+I'm **Buğra Çiçek**, a technology professional based in Türkiye.
 
-My work combines **software engineering, enterprise IT systems, process automation, digital product development, and technology entrepreneurship**.
+My interests and work span software engineering, enterprise IT systems, artificial intelligence, automation, and technology entrepreneurship.
 
-I focus on transforming real-world problems into practical, sustainable, and scalable digital solutions.
+I enjoy exploring emerging technologies, designing digital solutions, and improving software development processes.
 
-- 💻 Software development and application architecture
-- 🖥️ Enterprise IT infrastructure and systems management
-- ⚙️ Business process automation and digital transformation
-- 🚀 SaaS products and technology entrepreneurship
-- 🤖 AI-assisted development and intelligent workflows
+- 💻 Software Engineering & Application Development
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 Large Language Models & AI Agents
+- ⚙️ Workflow Automation & Intelligent Systems
+- 🏗️ Software Architecture & System Design
+- 🔐 IT Infrastructure & Information Security
+- 🚀 Technology Entrepreneurship & SaaS
 - 📐 Software Development Life Cycle (SDLC)
-- 🔐 Security, maintainability, and scalability
-
-> I believe technology should solve real problems, simplify complex processes, and create measurable value.
 
 ---
 
-## 🛠️ Engineering & Technology
+# 🛠️ Technology Ecosystem
 
 <div align="center">
 
-### Development Environment & Tools
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cs,java,cpp,c,go,rust,php,dart,kotlin&perline=12&theme=dark" alt="Programming Languages" />
 
-### Areas of Focus
+<br/>
 
-![Software Engineering](https://img.shields.io/badge/Software-Engineering-0A66C2?style=flat-square)
-![System Architecture](https://img.shields.io/badge/System-Architecture-0A66C2?style=flat-square)
-![IT Infrastructure](https://img.shields.io/badge/IT-Infrastructure-0A66C2?style=flat-square)
-![Automation](https://img.shields.io/badge/Process-Automation-0A66C2?style=flat-square)
-![SaaS](https://img.shields.io/badge/SaaS-Development-0A66C2?style=flat-square)
-![AI](https://img.shields.io/badge/AI--Assisted-Development-0A66C2?style=flat-square)
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap,sass,vite,redux,figma&perline=12&theme=dark" alt="Frontend Technologies" />
+
+<br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,django,flask,fastapi,spring,laravel,graphql,prisma,postman&perline=12&theme=dark" alt="Backend Technologies" />
+
+<br/>
+
+### 🗄️ Databases & Data Platforms
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase,elasticsearch,dynamodb,cassandra&perline=10&theme=dark" alt="Database Technologies" />
+
+<br/>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare,nginx,linux,ubuntu,terraform,ansible,jenkins&perline=12&theme=dark" alt="DevOps Technologies" />
+
+<br/>
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,pycharm,idea,postman,bash,powershell,npm,pnpm&perline=12&theme=dark" alt="Development Tools" />
+
+<br/>
+
+### 🧠 Machine Learning & AI Frameworks
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&perline=6&theme=dark" alt="AI and Machine Learning Frameworks" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects & Ventures
-
-A collection of digital products, platforms, and technology initiatives I'm working on.
-
-### 🌐 01 — SerovaTech
-
-**Enterprise Software & Digital Transformation**
-
-SerovaTech focuses on developing custom software solutions, business process automation, management dashboards, and digital products for modern businesses.
-
-**Focus Areas**
-- Custom web applications
-- Business process automation
-- Enterprise software solutions
-- Digital transformation
-- Scalable digital infrastructure
-
-🔗 **Website:** [serovatech.com](https://serovatech.com)
-
----
-
-### 💳 02 — SerovaTech ONE
-
-**Digital Business Cards • QR Codes • NFC Technology**
-
-SerovaTech ONE is a digital identity and smart networking platform designed to simplify professional connections.
-
-**Core Features**
-- Digital business card creation
-- QR code generation and management
-- NFC business card integration
-- Digital profile sharing
-- Smart networking experiences
-
-🔗 **Website:** [one.serovatech.com](https://one.serovatech.com)
-
----
-
-### 🎓 03 — E-Mentorluk
-
-**Digital Mentorship & Professional Development Platform**
-
-E-Mentorluk is a platform designed to connect individuals with academic and professional mentors through structured digital mentorship experiences.
-
-**Platform Focus**
-- Mentor discovery
-- Professional and academic guidance
-- Mentorship communication
-- Appointment scheduling
-- Structured mentorship management
-
-🔗 **Website:** [e-mentorluk.com](https://e-mentorluk.com)
-
----
-
-### 🧹 04 — Temizliyor
-
-**Cleaning Operations & Digital Management**
-
-Temizliyor is a digital initiative focused on improving the management and coordination of cleaning operations.
-
-**Project Focus**
-- Digital operations management
-- Workflow coordination
-- Operational efficiency
-- Service process digitalization
-
-🔗 **Website:** [temizliyor.com](https://temizliyor.com)
-
----
-
-### 🧭 05 — Nasıl Giderim
-
-**Digital Platform Project**
-
-Nasıl Giderim is one of my digital product initiatives.
-
-Further product details and technical documentation will be added as the project evolves.
-
-🔗 **Website:** [nasılgiderim.com](https://nasılgiderim.com)
-
----
-
-## 📊 GitHub Analytics
+# 🤖 Artificial Intelligence & LLM Ecosystem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bugracicek06&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+### Generative AI & AI Assistants
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugracicek06&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-</div>
+<br/>
 
-> Statistics depend on public GitHub data and the availability of external services.
+### AI Development & Orchestration
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 📈 Contribution Activity
+<br/>
 
-<div align="center">
+### AI Engineering Concepts
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugracicek06&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-0A66C2?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0A66C2?style=flat-square)
+![Automation](https://img.shields.io/badge/AI_Automation-0A66C2?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 What Drives My Work
+# 🎯 Areas of Interest
 
-```text
-01  Identify real-world problems
-02  Research and validate solutions
-03  Design scalable architectures
-04  Build and iterate digital products
-05  Test, deploy, and continuously improve
-06  Turn software into sustainable value
-```
+| Domain | Focus |
+|:---|:---|
+| 🤖 Artificial Intelligence | Generative AI, LLMs, AI Agents |
+| 💻 Software Engineering | Full Stack Development, APIs |
+| 🏗️ Architecture | System Design, Scalability |
+| ☁️ Infrastructure | Cloud, DevOps, Automation |
+| 🔐 Cybersecurity | Secure Systems, Best Practices |
+| 📊 Data Engineering | Databases, Data Processing |
+| 🚀 Entrepreneurship | SaaS, MVP, Digital Products |
+| ⚙️ SDLC | Planning, Development, Testing, Deployment |
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Statistics
 
 <div align="center">
 
-I'm interested in software engineering, digital transformation, SaaS products, automation, and technology entrepreneurship.
+<img src="https://github-readme-stats.vercel.app/api?username=bugracicek06&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugracicek06)
-[![SerovaTech](https://img.shields.io/badge/SerovaTech-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serovatech.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@serovatech.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugracicek06&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugracicek06&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bu%C4%9Fra-%C3%A7i%C3%A7ek-1289662b8/">
+<img src="https://img.shields.io/badge/LinkedIn-Buğra_Çiçek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/1bugracicek/?hl=tr">
+<img src="https://img.shields.io/badge/Instagram-1bugracicek-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://github.com/bugracicek06">
+<img src="https://img.shields.io/badge/GitHub-bugracicek06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -192,10 +180,10 @@ I'm interested in software engineering, digital transformation, SaaS products, a
 
 <div align="center">
 
-### "From ideas to intelligent digital solutions."
+### "Building the future, one line of code at a time."
 
-**Build. Improve. Automate. Scale.**
+**Code • Innovate • Automate • Scale**
 
-<sub>© Buğra Çiçek | Software Development & Technology Entrepreneurship</sub>
+<sub>Buğra Çiçek | Software Engineering & Artificial Intelligence</sub>
 
 </div>
